@@ -2,6 +2,21 @@
 
 This repository contains a collection of open-source projects by **@devnax**. Feel free to explore, contribute, and use them!
 
+## Author
+
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/devnax/devnax/main/me-circle-200.png" alt="devnax" width="100" height="100">
+    </td>
+    <td>
+      <strong>Naxrul Ahmed</strong><br>
+      <a href="https://github.com/devnax">GitHub Profile</a><br>
+      <a href="https://www.npmjs.com/~devnax">npm Profile</a><br>
+    </td>
+  </tr>
+</table>
+
 <h2>⚡️ Where to find me</h2>
 
 <p><a target="_blank" href="mailto:devnaxrul@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/-Email-05122A?style=for-the-badge&logo=gmail&logoColor=white&color=orange" alt="gmail" /></a>
@@ -14,6 +29,7 @@ This repository contains a collection of open-source projects by **@devnax**. Fe
 
 ## Projects
 
+- **[ONCSS](https://github.com/devnax/oncss)**: A CSS in JS framework for modern web development.
 - **[React Rock](https://github.com/devnax/react-rock)**: A lightweight package for managing global state in React applications.
 - **[Makepack](https://github.com/devnax/makepack)**: A CLI package for quickly setting up Vite and Express server environments.
 - **[Pretty Class](https://github.com/devnax/pretty-class)**: A utility for generating well-structured CSS class names.
