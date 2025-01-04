@@ -35,7 +35,8 @@ This repository contains a collection of open-source projects by **@devnax**. Fe
 - **[Pretty Class](https://github.com/devnax/pretty-class)**: A utility for generating well-structured CSS class names.
 - **[Json Piece](https://github.com/devnax/json-piece)**: A package to handle and manipulate JSON data in a structured way.
 - **[React State Bucket](https://github.com/devnax/react-state-bucket)**: A React state management solution using buckets for better scalability.
-
+- **[Dboun](https://github.com/devnax/dboun)**: A lightweight and efficient JavaScript/TypeScript utility for debouncing functions.
+- 
 ---
 
 Feel free to check out the individual repositories for more information and usage details!
