@@ -36,6 +36,7 @@ This repository contains a collection of open-source projects by **@devnax**. Fe
 - **[Json Piece](https://github.com/devnax/json-piece)**: A package to handle and manipulate JSON data in a structured way.
 - **[React State Bucket](https://github.com/devnax/react-state-bucket)**: A React state management solution using buckets for better scalability.
 - **[Dboun](https://github.com/devnax/dboun)**: A lightweight and efficient JavaScript/TypeScript utility for debouncing functions.
+- **[Validme](https://github.com/devnax/validme)**: A comprehensive validation library for various data types.
  
 ---
 
