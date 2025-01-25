@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Open Source Projects
 
 This repository contains a collection of open-source projects by **@devnax**. Feel free to explore, contribute, and use them!
